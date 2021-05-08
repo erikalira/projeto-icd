@@ -1,1 +1,6 @@
-# Projeto-ICD
+# Projeto Analise de jogos
+
+Integrantes: 
+- ARTUR LUIS BRITO GURJAO
+- ERIKA JANINE LIRA DOS SANTOS
+- FLAVIO EDUARDO SOUTO MAIOR SERRANO
